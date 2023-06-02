@@ -1,0 +1,18 @@
+{
+  "name": "controllernodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "express-validator": "^7.0.1",
+    "mongoose": "^7.2.2",
+    "uuid": "^9.0.0"
+  }
+}
